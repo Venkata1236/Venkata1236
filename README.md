@@ -70,7 +70,8 @@ I'm an **AI/ML Engineer** with 1 year of experience building intelligent, produc
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkata1236&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" width="50%" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Venkata1236&theme=tokyonight" width="48%" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Venkata1236&theme=tokyonight" width="48%" alt="Top Languages by Commits"/>
 </div>
 
 ---
