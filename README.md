@@ -57,7 +57,6 @@ I'm an **AI/ML Engineer** with 1 year of experience building intelligent, produc
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkatareddy1203)
-[![Portfolio](https://img.shields.io/badge/Live%20Project-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fraud-sentinel-five.vercel.app)
 
 ---
 
@@ -65,12 +64,13 @@ I'm an **AI/ML Engineer** with 1 year of experience building intelligent, produc
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Venkata1236&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkata1236&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkata1236&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkata1236&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkata1236&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="50%" alt="Top Languages"/>
 </div>
 
 ---
