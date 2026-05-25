@@ -1,3 +1,23 @@
+<!-- ADDITION 1: Open to Work Banner -->
+<div align="center">
+
+🟢 **Open to AI/ML Engineer roles — Pharma AI (Eli Lilly · Amgen · BMS · Sanofi)**
+
+📩 bommavaramvenkat2003@gmail.com
+
+</div>
+
+<!-- ADDITION 2: Currently Building Banner -->
+<div align="center">
+
+🔨 **Currently Building:** VisionDerm AI — Production-grade dermatology AI on AWS EKS
+
+🎯 **Target:** Pharma AI roles by April 2027
+
+</div>
+
+---
+
 <!-- Visitor Counter -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Venkata1236&label=Profile%20Views&color=0e75b6&style=flat" alt="Venkata1236" />
@@ -19,6 +39,16 @@ I'm an **AI/ML Engineer** with 1 year of experience building intelligent, produc
 - 🔗 Deep expertise in **LangGraph workflows** for building stateful, multi-step agent pipelines
 - 💊 Strong interest in **Pharma AI** — applying AI to drug discovery and healthcare workflows
 - 🚀 Focused on turning ideas into **deployed, production-grade AI products** — not just notebooks
+
+---
+
+<!-- ADDITION 3: Featured Projects -->
+## 🚀 Featured Projects
+
+| Project | What it does | Stack | Live |
+|---|---|---|---|
+| [FraudSentinel](https://github.com/Venkata1236) | Real-time fraud detection with explainability | XGBoost · SHAP · LangGraph · FastAPI · React | [Live Demo](https://fraud-sentinel-five.vercel.app) |
+| VisionDerm AI | Production dermatology AI system | CNN · FastAPI · AWS EKS · React | 🔨 In Progress |
 
 ---
 
@@ -63,6 +93,13 @@ I'm an **AI/ML Engineer** with 1 year of experience building intelligent, produc
 <!-- SECTION E: GITHUB STATS -->
 ## 📊 GitHub Stats
 
+<!-- ADDITION 4: GitHub Stats Main Card -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Venkata1236&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="70%" alt="GitHub Stats"/>
+</div>
+
+<br/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkata1236&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
 </div>
@@ -72,6 +109,13 @@ I'm an **AI/ML Engineer** with 1 year of experience building intelligent, produc
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Venkata1236&theme=tokyonight" width="48%" alt="Top Languages by Repo"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Venkata1236&theme=tokyonight" width="48%" alt="Top Languages by Commits"/>
+</div>
+
+<br/>
+
+<!-- ADDITION 5: Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Venkata1236&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
